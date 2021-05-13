@@ -1,5 +1,4 @@
-### Hi there 👋
-![alt text](https://github.com/ames0k0/ames0k0/blob/main/static/logo/skel.png?raw=true)
+![alt text](https://github.com/ames0k0/ames0k0/blob/main/static/logo/skel_right_colored.png?raw=true)
 - 🔭 I’m currently working on [ArutairuMup/arutairu](https://github.com/ArutairuMup/arutairu)
 
 <!--
