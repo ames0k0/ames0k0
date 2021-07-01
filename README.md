@@ -1,5 +1,5 @@
 ![alt text](https://github.com/ames0k0/ames0k0/blob/main/static/logo/skel_next_signed.png?raw=true)
-- 🔭 I’m currently working on [ArutairuMup/arutairu](https://github.com/ArutairuMup/arutairu)
+- 🔭 I’m currently working on [sh1chan/arutairu](https://github.com/sh1chan/arutairu)
 
 <!--
 **ames0k0/ames0k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
