@@ -1,36 +1,30 @@
-![alt text](https://github.com/ames0k0/ames0k0/blob/main/static/logo/skel_next_signed.png?raw=true)
-- Social-Media:
-[LinkedIn](https://www.linkedin.com/in/ames0k0/),
-[Facebook](https://www.facebook.com/ames0k0),
-[Twitter](https://twitter.com/ames0k0),
-[Telegram](https://t.me/ames0k0)
-- Learning to Code at:
-[HackerRank](https://www.hackerrank.com/ames0k0),
-[LeetCode](https://leetcode.com/ames0k0/),
-[CodeWars](https://www.codewars.com/users/ames0k0),
-[SoloLearn](https://www.sololearn.com/profile/5227051),
-[CodeCademy](https://www.codecademy.com/profiles/ames0k0)
-- Workflow ([pics](https://github.com/ames0k0/dotfiles)):
-GNU/Linux ([Kali](https://www.kali.org/), [Ubuntu](https://ubuntu.com/)),
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads),
-[Bash](https://www.gnu.org/software/bash/),
-[i3wm](https://i3wm.org/),
-[Tmux](https://ru.wikipedia.org/wiki/Tmux),
-[Vim](https://www.vim.org/),
-[Jupyter-Notebook](https://jupyter.org/),
-[IPython](https://ipython.org/)
-- Live Coding at:
-[YouTube](https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg)
-- I'm interested in: AI, IoT, DevOps, Hacking and Competitive Programming
-<!--
-**ames0k0/ames0k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 夜神月 (Yagami Light) : ![Lifespan](static/logo/YagamiLightLifespan.png)
+![alt text](static/banner/YagamiLightName.gif)
+- Social-Media :
+[![LinkedIn](static/logo/LinkedIn.png)](https://www.linkedin.com/in/ames0k0/),
+[![Facebook](static/logo/Facebook.png)](https://www.facebook.com/ames0k0),
+[![Twitter](static/logo/Twitter.png)](https://twitter.com/ames0k0),
+[![Telegram](static/logo/Telegram.png)](https://t.me/ames0k0)
+- Learning to Code at :
+[![HackerRank](static/logo/HackerRank.png)](https://www.hackerrank.com/ames0k0),
+[![LeetCode](static/logo/LeetCode.png)](https://leetcode.com/ames0k0/),
+[![CodeWars](static/logo/CodeWars.png)](https://www.codewars.com/users/ames0k0),
+[![SoloLearn](static/logo/SoloLearn.png)](https://www.sololearn.com/profile/5227051),
+[![CodeCademy](static/logo/CodeCademy.png)](https://www.codecademy.com/profiles/ames0k0)
+- Live Coding at :
+[![YouTube](static/logo/YouTube.png)](https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg)
+- Workflow ([pics](https://github.com/ames0k0/dotfiles)) :
+[![Kali Linux](static/logo/KaliLinux.png)](https://www.kali.org/),
+[![VirtualBox](static/logo/VirtualBox.png)](https://www.virtualbox.org/wiki/Downloads),
+[![Bash](static/logo/Bash.png)](https://www.gnu.org/software/bash/),
+[![i3wm](static/logo/i3wm.png)](https://i3wm.org/),
+[![Tmux](static/logo/Tmux.png)](https://ru.wikipedia.org/wiki/Tmux),
+[![Vim](static/logo/Vim.png)](https://www.vim.org/),
+[![Jupyter-Notebook](static/logo/Jupyter-Notebook.png)](https://jupyter.org/),
+[![IPython](static/logo/IPython.png)](https://ipython.org/)
+- I'm interested in : Artificial Intelligence, IoT, DevOps, InfoSec and Competitive Programming
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+Picture Generator: https://fontmeme.com/de/death-note-schriftart/
+Lifespan: https://deathnote.fandom.com/wiki/Lifespan
 -->
