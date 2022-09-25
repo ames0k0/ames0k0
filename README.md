@@ -18,7 +18,7 @@ Quotes: https://japanoscope.com/light-yagami-quotes/
 Anime: Shuumatsu Nani Shitemasuka? Isogashii Desuka? Sukutte Moratte Ii Desuka?
 -->
 <p align="center">
-  <img src="./static/pics/sukasuka.gif" />
+  <img src="./static/pics/Chtholly_Nota_Seniorious.jpg" />
 </p>
 
 <!--
