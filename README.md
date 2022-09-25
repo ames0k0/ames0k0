@@ -1,3 +1,12 @@
+<!--
+Picture Generator:
+  {
+    https://fontmeme.com/de/death-note-schriftart/, {15, 20}, FF11FF, {None, Style-Wavy}
+  }
+Lifespan: https://deathnote.fandom.com/wiki/Lifespan
+Quotes: https://japanoscope.com/light-yagami-quotes
+"・・・キラだから": Naomi commits suicide by shooting herself in the head
+-->
 <h1 align="center">夜神月 (・・・キラだから) : <img src="./static/logo/LightYagamiLifespan.png" /></h1>
 
 <!--
