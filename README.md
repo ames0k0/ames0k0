@@ -1,7 +1,3 @@
-# 夜神月 (Light Yagami) : ![Lifespan](static/logo/LightYagamiLifespan.png)
-### 世の中腐ってる。腐ってる奴は死んだ方がいい。
-![alt text](static/banner/YagamiLightName.gif)
-
 <!--
 Picture Generator:
   {
@@ -10,20 +6,35 @@ Picture Generator:
 Lifespan: https://deathnote.fandom.com/wiki/Lifespan
 Quotes: https://japanoscope.com/light-yagami-quotes/
 -->
-
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ames0k0&layout=compact&count_private=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ames0k0&layout=compact" /></td>
+    <td><img src="./static/banner/YagamiLightName.gif" /></td>
+    <td><img src="./static/logo/LightYagamiLifespan.png" /></br>世の中腐ってる。腐ってる奴は死んだ方がいい。</td>
   </tr>
+
 </table>
 
 <!--
 Stats example from: https://github.com/nullnyat/nullnyat
 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ames0k0&layout=compact&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ames0k0&layout=compact" /></td>
+  </tr>
+  <tr>
+    <td>
+      ORG:
+      <a href="https://github.com/sh1chan">死神界</a>,
+      <a href="https://github.com/aintp3d0">風見まほ</a>,
+      <a href="https://github.com/fr1ht">築城院 真鍳</a>,
+      <a href="https://github.com/h2b7">比企谷 八幡</a>
+    </td>
+    <td>SM/C:
+      <a href="https://t.me/ames0k0">Telegram</a>,
+      <a href="https://keybase.io/ames0k0">KeyBase</a>,
+      <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">YouTube/c/U</a>
+    </td>
+  </tr>
 
-|     |     |
-| :-: | :-: |
-| <strong>Social Media</strong> | [Telegram](https://t.me/ames0k0) |
-| <strong>Development Process</strong> | [YouTube/c/U](https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg) |
-| <strong>Organizations</strong> | [死神界](https://github.com/sh1chan), [風見まほ](https://github.com/aintp3d0), [築城院 真鍳](https://github.com/fr1ht), [比企谷 八幡](https://github.com/h2b7) |
+</table>
