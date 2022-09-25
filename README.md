@@ -1,17 +1,4 @@
-<!--
-Picture Generator:
-  {
-    https://fontmeme.com/de/death-note-schriftart/, {15, 20}, FF11FF, {None, Style-Wavy}
-  }
-Lifespan: https://deathnote.fandom.com/wiki/Lifespan
-Quotes: https://japanoscope.com/light-yagami-quotes/
--->
-<table align="center">
-  <tr>
-    <td><img src="./static/banner/YagamiLightName.gif" /></td>
-    <td><img src="./static/logo/LightYagamiLifespan.png" /></br>世の中腐ってる。腐ってる奴は死んだ方がいい。</td>
-  </tr>
-</table>
+<h1 align="center">夜神月 (・・・キラだから) : <img src="./static/logo/LightYagamiLifespan.png" /></h1>
 
 <!--
 Stats example from: https://github.com/nullnyat/nullnyat
