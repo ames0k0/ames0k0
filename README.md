@@ -11,15 +11,7 @@ Quotes: https://japanoscope.com/light-yagami-quotes/
     <td><img src="./static/banner/YagamiLightName.gif" /></td>
     <td><img src="./static/logo/LightYagamiLifespan.png" /></br>世の中腐ってる。腐ってる奴は死んだ方がいい。</td>
   </tr>
-
 </table>
-
-<!--
-Anime: Shuumatsu Nani Shitemasuka? Isogashii Desuka? Sukutte Moratte Ii Desuka?
--->
-<p align="center">
-  <img src="./static/pics/Chtholly_Nota_Seniorious.jpg" />
-</p>
 
 <!--
 Stats example from: https://github.com/nullnyat/nullnyat
@@ -43,5 +35,4 @@ Stats example from: https://github.com/nullnyat/nullnyat
       <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">YouTube/c/U</a>
     </td>
   </tr>
-
 </table>
