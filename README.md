@@ -15,6 +15,13 @@ Quotes: https://japanoscope.com/light-yagami-quotes/
 </table>
 
 <!--
+Anime: Shuumatsu Nani Shitemasuka? Isogashii Desuka? Sukutte Moratte Ii Desuka?
+-->
+<p align="center">
+  <img src="./static/pics/sukasuka.gif" />
+</p>
+
+<!--
 Stats example from: https://github.com/nullnyat/nullnyat
 -->
 <table align="center">
