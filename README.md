@@ -25,11 +25,13 @@ Stats example from: https://github.com/nullnyat/nullnyat
       <a href="https://github.com/fr1ht">築城院 真鍳</a>,
       <a href="https://github.com/h2b7">比企谷 八幡</a>
     </td>
-    <td>SM/C:
+    <td>SM:
       <a href="https://t.me/ames0k0">Telegram</a>,
-      <a href="https://keybase.io/ames0k0">KeyBase</a>,
-      <a href="https://www.youtube.com/channel/UCSgmAPCXUbIHugC7QmtlA8Q">YouTube/c/s</a>,
-      <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">YouTube/c/a</a>
+      <a href="https://keybase.io/ames0k0">KeyBase</a>
+      <span>|| YouTube/c
+        <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">/a</a>,
+        <a href="https://www.youtube.com/channel/UCSgmAPCXUbIHugC7QmtlA8Q">/s</a>
+      </span>
     </td>
   </tr>
 </table>
