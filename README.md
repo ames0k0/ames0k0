@@ -28,7 +28,8 @@ Stats example from: https://github.com/nullnyat/nullnyat
     <td>SM/C:
       <a href="https://t.me/ames0k0">Telegram</a>,
       <a href="https://keybase.io/ames0k0">KeyBase</a>,
-      <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">YouTube/c/U</a>
+      <a href="https://www.youtube.com/channel/UCSgmAPCXUbIHugC7QmtlA8Q">YouTube/c/s</a>,
+      <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">YouTube/c/a</a>
     </td>
   </tr>
 </table>
