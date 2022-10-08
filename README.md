@@ -26,8 +26,11 @@ Stats example from: https://github.com/nullnyat/nullnyat
       <a href="https://github.com/h2b7">比企谷 八幡</a>
     </td>
     <td>SM:
-      <a href="https://t.me/ames0k0">Telegram</a>,
-      <a href="https://keybase.io/ames0k0">KeyBase</a>
+      <a href="https://t.me/ames0k0">TG</a>,
+      <a href="https://keybase.io/ames0k0">KB</a>,
+      <a href="https://twitter.com/ames0k0">TW</a>,
+      <a href="https://www.facebook.com/ames0k0">FB</a>,
+      <a href="https://vk.com/ames0k0">VK</a>
       <span>|| YouTube/c
         <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">/a</a>,
         <a href="https://www.youtube.com/channel/UCSgmAPCXUbIHugC7QmtlA8Q">/s</a>
