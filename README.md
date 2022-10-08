@@ -7,7 +7,17 @@ Lifespan: https://deathnote.fandom.com/wiki/Lifespan
 Quotes: https://japanoscope.com/light-yagami-quotes
 "・・・キラだから": Naomi commits suicide by shooting herself in the head
 -->
-<h1 align="center">世の中腐ってる。腐ってる奴は死んだ方がいい。<img src="./static/logo/LightYagamiLifespan.png" /></h1>
+
+<div align="center">
+<details>
+  <summary>
+    <h1>世の中腐ってる。腐ってる奴は死んだ方がいい。<img src="./static/logo/LightYagamiLifespan.png" /></h1>
+  </summary>
+  <p>
+    <img src=./static/banner/YagamiLightName.gif />
+  </p>
+</details>
+</div>
 
 <!--
 Stats example from: https://github.com/nullnyat/nullnyat
