@@ -41,7 +41,7 @@ Stats example from: https://github.com/nullnyat/nullnyat
       <a href="https://www.facebook.com/ames0k0">FB</a>,
       <a href="https://vk.com/ames0k0">VK</a>
       <span>|| YouTube/c
-        <a href="https://www.youtube.com/channel/UCKfm7aCx7tyGf2zjRIBRaqg">/a</a>,
+        <a href="https://www.youtube.com/@ames0k0">/a</a>,
         <a href="https://www.youtube.com/channel/UCSgmAPCXUbIHugC7QmtlA8Q">/s</a>
       </span>
     </td>
