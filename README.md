@@ -39,8 +39,9 @@ Stats example from: https://github.com/nullnyat/nullnyat
       <a href="https://keybase.io/ames0k0">KB</a>,
       <a href="https://twitter.com/ames0k0">TW</a>,
       <a href="https://www.facebook.com/ames0k0">FB</a>,
-      <a href="https://vk.com/ames0k0">VK</a>
-      <span>|| YouTube/c
+      <a href="https://vk.com/ames0k0">VK</a>,
+      <a href="https://www.linkedin.com/in/ames0k0">IN</a>
+      <span>|| YTube:
         <a href="https://www.youtube.com/@ames0k0">/a</a>,
         <a href="https://www.youtube.com/channel/UCSgmAPCXUbIHugC7QmtlA8Q">/s</a>
       </span>
