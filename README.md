@@ -32,7 +32,8 @@ Stats example from: https://github.com/nullnyat/nullnyat
       <a href="https://github.com/aintp3d0">風見まほ</a>,
       <a href="https://github.com/fr1ht">築城院 真鍳</a>,
       <a href="https://github.com/h2b7">比企谷 八幡</a>,
-      <a href="https://github.com/randomshitcode">RSC</a>
+      <a href="https://github.com/randomshitcode">RSC</a>,
+      <a href="https://github.com/STF-Project">STFP</a>
     </td>
     <td>SM:
       <a href="https://t.me/ames0k0">TG</a>,
