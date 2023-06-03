@@ -29,17 +29,13 @@ Stats example from: https://github.com/nullnyat/nullnyat
     <td>
       ORG:
       <a href="https://github.com/sh1chan">死神界</a>,
+      <a href="https://github.com/j1bun">自分</a>,
       <a href="https://github.com/aintp3d0">風見まほ</a>,
       <a href="https://github.com/fr1ht">築城院 真鍳</a>,
-      <a href="https://github.com/h2b7">比企谷 八幡</a>,
-      <a href="https://github.com/STF-Project">STFP</a>
     </td>
-    <td>SM:
+    <td>SNS:
       <a href="https://t.me/ames0k0">TG</a>,
       <a href="https://keybase.io/ames0k0">KB</a>,
-      <a href="https://twitter.com/ames0k0">TW</a>,
-      <a href="https://www.facebook.com/ames0k0">FB</a>,
-      <a href="https://vk.com/ames0k0">VK</a>,
       <a href="https://www.linkedin.com/in/ames0k0">IN</a>
       <span>|| YTube:
         <a href="https://www.youtube.com/@ames0k0">/a</a>,
