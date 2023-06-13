@@ -11,7 +11,7 @@ Quotes: https://japanoscope.com/light-yagami-quotes
 <div align="center">
 <details>
   <summary>
-    <h1>世の中腐ってる。腐ってる奴は死んだ方がいい。<img src="./static/logo/LightYagamiLifespan.png" /></h1>
+    <h3>世の中腐ってる。腐ってる奴は死んだ方がいい。<img src="./static/logo/LightYagamiLifespan.png" /></h3>
   </summary>
   <img src=./static/banner/YagamiLightName.gif />
 </details>
