@@ -30,12 +30,11 @@ Stats example from: https://github.com/nullnyat/nullnyat
       ORG:  <!-- [p]roject, [h]obby -->
       <a href="https://github.com/sh1chan">sh1chan</a>,
       <a href="https://github.com/j1bun">j1bun</a>,
-      <a href="https://github.com/project-smtc-as-org">STMC</a>,
-      <a href="https://github.com/project-gh-as-org">GH</a>
+      <a href="https://github.com/aintp3d0">-hobby</a>,
+      <a href="https://github.com/h2b7">-forks</a>
     </td>
     <td>SNS:
       <a href="https://t.me/ames0k0">TG</a>,
-      <a href="https://keybase.io/ames0k0">KB</a>,
       <a href="https://www.linkedin.com/in/ames0k0">IN</a>
       <span>|| YT:
         <a href="https://www.youtube.com/@ames0k0">/a</a>,
