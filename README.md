@@ -4,11 +4,11 @@ Emoji: https://gist.github.com/rxaviers/7360908
 
 <div align="center">
     <details>
-        <summary>Emoji to Word</summary>
+        <summary>Emoji Meaning</summary>
         <table>
             <tr>
                 <th>Emoji</th>
-                <th>Word</th>
+                <th>Meaning</th>
             </tr>
             <tr>
                 <td>🕒</td>
@@ -27,20 +27,20 @@ Emoji: https://gist.github.com/rxaviers/7360908
                 <td>Free Time</td>
             </tr>
             <tr>
-                <td>🏠</td>
-                <td>Not working</td>
-            </tr>
-            <tr>
                 <td>🏢</td>
                 <td>Working</td>
             </tr>
             <tr>
+                <td>🏠</td>
+                <td>Home Alone</td>
+            </tr>
+            <tr>
                 <td>🏫</td>
-                <td>Study</td>
+                <td>Studying in School</td>
             </tr>
             <tr>
                 <td>🌕</td>
-                <td>Sleep</td>
+                <td>Sleeping</td>
             </tr>
             <tr>
                 <td>⛔</td>
@@ -67,7 +67,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
 </div>
 
 <div align="center">
-    <div align="center">🕒 🏠 ⛔ 🏢 🏫 <br />
+    <div align="center">🕒 🏠 🌕 ⛔ 🏢 🏫 <br />
         :ballot_box_with_check:
         :ballot_box_with_check:
         :ballot_box_with_check:.
@@ -201,7 +201,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
         </div>
         <div align="center">🕒 🏫 🏢 ⛔ 🌕<br />
             :black_square_button:
-            :black_square_button:
+            :black_square_button:🏫 
             :black_square_button:.
             :ballot_box_with_check:
             :ballot_box_with_check:
@@ -285,7 +285,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Show Me The Code</td>
         <td align="center">:warning:</td>
         <td>/project</td>
-        <td align="center">:octocat:<br /><a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">ShowMeTheCode</a></td>
+        <td align="center"><a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -293,7 +293,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Any Real-Time Events</td>
         <td align="center">:construction:</td>
         <td>/project</td>
-        <td align="center">:octocat:<br /><a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">AnyRealTimeEvents</a></td>
+        <td align="center"><a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -301,7 +301,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Any FaceID</td>
         <td align="center">:construction:</td>
         <td>/project</td>
-        <td align="center">:octocat:<br /><a target="_blank" href="https://github.com/sh1chan/AnyFaceID">AnyFaceID</a></td>
+        <td align="center"><a target="_blank" href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -347,7 +347,7 @@ Table Structure: https://github.com/seefs001/xox
         </td>
         <td align="center">:warning:</td>
         <td>/game</td>
-        <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
+        <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
         <td>0.1.0</td>
         <td></td>
     </tr>
@@ -358,7 +358,7 @@ Table Structure: https://github.com/seefs001/xox
         </td>
         <td align="center">:warning:</td>
         <td>/game</td>
-        <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
+        <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
         <td>0.1.0</td>
         <td></td>
     </tr>
