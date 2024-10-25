@@ -1,5 +1,9 @@
+<!--
+Emoji: https://gist.github.com/rxaviers/7360908
+-->
+
 <div align="center">
-    <div align="center">:clock3: UnEmployed with NoSchool<br />
+    <div align="center">🕒 🏠 UnEmployed with NoSchool<br />
         :ballot_box_with_check:
         :ballot_box_with_check:
         :ballot_box_with_check:.
@@ -27,7 +31,7 @@
     </div>
     <details>
         <summary>...</summary>
-        <div align="center">:clock3: Work 08.00 - 17.00<br />
+        <div align="center">🕒 🏢 08.00 - 17.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -53,7 +57,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">:clock3: Work 10.00 - 19.00<br />
+        <div align="center">🕒 🏢 10.00 - 19.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -79,7 +83,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">:clock9: School 8.30 - 12.40<br />
+        <div align="center">🕘 🏫 8.30 - 12.40<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -105,7 +109,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">:clock9: School 13.00 - 17.00<br />
+        <div align="center">🕘 🏫 13.00 - 17.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -131,7 +135,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">:clock3: Summary with NoSleep<br />
+        <div align="center">🕒 🏫 🏢 Summary with NoSleep<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
