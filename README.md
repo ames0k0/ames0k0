@@ -191,7 +191,11 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Profile</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>:construction: Scheduled</td>
+        <td>/</td>
+        <td>:no_entry_sign:</td>
+        <td>beta-0.1.0</td>
+        <td></td>
     </tr>
     <tr>
         <td>Bookmark</td>
@@ -203,31 +207,59 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Show Me The Code</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>:warning: Archived</td>
+        <td>/project</td>
+        <td><a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">ShowMeTheCode</a></td>
+        <td>0.0.1</td>
+        <td></td>
     </tr>
     <tr>
         <td>Any Real-Time Events</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>:construction: Scheduled</td>
+        <td>/project</td>
+        <td><a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">AnyRealTimeEvents</a></td>
+        <td>0.0.1</td>
+        <td></td>
     </tr>
     <tr>
         <td>Any FaceID</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>:construction: Scheduled</td>
+        <td>/project</td>
+        <td><a target="_blank" href="https://github.com/sh1chan/AnyFaceID">AnyFaceID</a></td>
+        <td>0.0.1</td>
+        <td></td>
     </tr>
     <tr>
         <td>Small Tool Box</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>:construction: Scheduled</td>
+        <td>/services/sns/tg</td>
+        <td>:no_entry_sign:</td>
+        <td>0.0.1</td>
+        <td></td>
     </tr>
     <tr>
         <td>Query Tags</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>:warning: Archived</td>
+        <td>/services/sns/tg</td>
+        <td>:no_entry_sign:</td>
+        <td>0.0.1</td>
+        <td></td>
     </tr>
     <tr>
         <td>Sage0x0</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>:warning: Archived</td>
+        <td>/games/sns/tg</td>
+        <td>:no_entry_sign:</td>
+        <td>0.0.1</td>
+        <td></td>
     </tr>
     <tr>
-        <td align="left">Advent</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td>Advent</td>
+        <td>:warning: Archived</td>
+        <td>/games/sns/tg</td>
+        <td>:no_entry_sign:</td>
+        <td>0.0.1</td>
+        <td></td>
     </tr>
     <tr>
         <td colspan="6" align="center"><strong>Rhythm Games</strong></td>
