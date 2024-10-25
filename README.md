@@ -19,6 +19,14 @@ Emoji: https://gist.github.com/rxaviers/7360908
                 <td>GMT+9</td>
             </tr>
             <tr>
+                <td>☑️</td>
+                <td>Busy Time</td>
+            </tr>
+            <tr>
+                <td>🔲</td>
+                <td>Free Time</td>
+            </tr>
+            <tr>
                 <td>🏠</td>
                 <td>Not working</td>
             </tr>
