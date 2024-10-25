@@ -1,6 +1,5 @@
 <div align="center">
-    <div align="center">
-        <p style="margin: 0px;">MSK+3 :: UnEmployed with NoSchool</p>
+    <div align="center">:clock3: UnEmployed with NoSchool<br />
         :ballot_box_with_check:
         :ballot_box_with_check:
         :ballot_box_with_check:.
@@ -27,9 +26,8 @@
         :ballot_box_with_check:
     </div>
     <details>
-        <summary>In the near future</summary>
-        <div align="center">
-            <p style="margin: 0px;">MSK+3 :: Work 08.00 - 17.00 </p>
+        <summary>...</summary>
+        <div align="center">:clock3: Work 08.00 - 17.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -55,8 +53,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">
-            <p style="margin: 0px;">MSK+3 :: Work 10.00 - 19.00 </p>
+        <div align="center">:clock3: Work 10.00 - 19.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -82,8 +79,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">
-            <p style="margin: 0px;">GMT+9 :: School 8.30 - 12.40 </p>
+        <div align="center">:clock9: School 8.30 - 12.40<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -109,8 +105,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">
-            <p style="margin: 0px;">GMT+9 :: School 13.00 - 17.00 </p>
+        <div align="center">:clock9: School 13.00 - 17.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -136,8 +131,7 @@
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">
-            <p style="margin: 0px;">MSK+3 :: Summary with NoSleep </p>
+        <div align="center">:clock3: Summary with NoSleep<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -165,6 +159,8 @@
         </div>
     </details>
 </div>
+
+---
 
 <!--
 Table Structure: https://github.com/seefs001/xox
