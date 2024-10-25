@@ -187,27 +187,27 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Accountant</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td colspan="5" align="center">:construction:<br />Scheduled</td>
     </tr>
     <tr>
         <td>Profile</td>
-        <td>:construction: Scheduled</td>
+        <td align="center">:construction:<br />Scheduled</td>
         <td>/</td>
-        <td>:no_entry_sign:</td>
+        <td align="center">:no_entry_sign:</td>
         <td>beta-0.1.0</td>
         <td></td>
     </tr>
     <tr>
         <td>Bookmark</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td colspan="5" align="center">:construction:<br />Scheduled</td>
     </tr>
     <tr>
         <td>Wishlist</td>
-        <td colspan="5">:construction: Scheduled</td>
+        <td colspan="5" align="center">:construction:<br />Scheduled</td>
     </tr>
     <tr>
         <td>Show Me The Code</td>
-        <td>:warning: Archived</td>
+        <td align="center">:warning:<br />Archived</td>
         <td>/project</td>
         <td><a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">ShowMeTheCode</a></td>
         <td>0.0.1</td>
@@ -215,7 +215,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Any Real-Time Events</td>
-        <td>:construction: Scheduled</td>
+        <td align="center">:construction:<br />Scheduled</td>
         <td>/project</td>
         <td><a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">AnyRealTimeEvents</a></td>
         <td>0.0.1</td>
@@ -223,7 +223,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Any FaceID</td>
-        <td>:construction: Scheduled</td>
+        <td align="center">:construction:<br />Scheduled</td>
         <td>/project</td>
         <td><a target="_blank" href="https://github.com/sh1chan/AnyFaceID">AnyFaceID</a></td>
         <td>0.0.1</td>
@@ -231,33 +231,33 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Small Tool Box</td>
-        <td>:construction: Scheduled</td>
+        <td align="center">:construction:<br />Scheduled</td>
         <td>/services/sns/tg</td>
-        <td>:no_entry_sign:</td>
+        <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
         <td></td>
     </tr>
     <tr>
         <td>Query Tags</td>
-        <td>:warning: Archived</td>
+        <td align="center">:warning:<br />Archived</td>
         <td>/services/sns/tg</td>
-        <td>:no_entry_sign:</td>
+        <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
         <td></td>
     </tr>
     <tr>
         <td>Sage0x0</td>
-        <td>:warning: Archived</td>
+        <td align="center">:warning:<br />Archived</td>
         <td>/games/sns/tg</td>
-        <td>:no_entry_sign:</td>
+        <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
         <td></td>
     </tr>
     <tr>
         <td>Advent</td>
-        <td>:warning: Archived</td>
+        <td align="center">:warning:<br />Archived</td>
         <td>/games/sns/tg</td>
-        <td>:no_entry_sign:</td>
+        <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -269,7 +269,7 @@ Table Structure: https://github.com/seefs001/xox
             <span>Hatsune Miku: COLORFUL STAGE!</span><br />
             <span>プロジェクトセカイ カラフルステージ！ feat. 初音ミク</span>
         </td>
-        <td>:warning: Archived</td>
+        <td align="center">:warning:<br />Archived</td>
         <td></td>
         <td><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
         <td colspan="2"></td>
@@ -279,7 +279,7 @@ Table Structure: https://github.com/seefs001/xox
             <span>BanG Dream! Girls Band Party!</span><br />
             <span>バンドリ！ ガールズバンドパーティ！</span>
         </td>
-        <td>:warning: Archived</td>
+        <td align="center">:warning:<br />Archived</td>
         <td></td>
         <td><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
         <td colspan="2"></td>
