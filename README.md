@@ -201,12 +201,27 @@ Table Structure: https://github.com/seefs001/xox
         <td>Wishlist</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">SMTC</td>
+        <td colspan="6" align="center">Show Me The Code</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">AnyRealTimeEvents</td>
+        <td colspan="6" align="center">Any Real-Time Events</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">AnyFaceID</td>
+        <td colspan="6" align="center">Any FaceID</td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center">Small Tool Box</td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center">Query Tags</td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center">Sage0x0</td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center">Advent</td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center">Rhythm Games</td>
     </tr>
 </table>
