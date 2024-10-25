@@ -3,7 +3,63 @@ Emoji: https://gist.github.com/rxaviers/7360908
 -->
 
 <div align="center">
-    <div align="center">🕒 🏠 🚫 🏢 🏫 <br />
+    <details>
+        <summary>Emoji to Word</summary>
+        <table>
+            <tr>
+                <th>Emoji</th>
+                <th>Word</th>
+            </tr>
+            <tr>
+                <td>🕒</td>
+                <td>MSK+3</td>
+            </tr>
+            <tr>
+                <td>🕘</td>
+                <td>GMT+9</td>
+            </tr>
+            <tr>
+                <td>🏠</td>
+                <td>Not working</td>
+            </tr>
+            <tr>
+                <td>🏢</td>
+                <td>Working</td>
+            </tr>
+            <tr>
+                <td>🏫</td>
+                <td>Study</td>
+            </tr>
+            <tr>
+                <td>🌕</td>
+                <td>Sleep</td>
+            </tr>
+            <tr>
+                <td>⛔</td>
+                <td>Without</td>
+            </tr>
+            <tr>
+                <td>🚫</td>
+                <td>Private</td>
+            </tr>
+            <tr>
+                <td>:octocat:</td>
+                <td>Public</td>
+            </tr>
+            <tr>
+                <td>🚧</td>
+                <td>Scheduled</td>
+            </tr>
+            <tr>
+                <td>⚠️</td>
+                <td>Archived</td>
+            </tr>
+        </table>
+    </details>
+</div>
+
+<div align="center">
+    <div align="center">🕒 🏠 ⛔ 🏢 🏫 <br />
         :ballot_box_with_check:
         :ballot_box_with_check:
         :ballot_box_with_check:.
@@ -135,7 +191,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">🕒 🏫 🏢 🚫 🌕<br />
+        <div align="center">🕒 🏫 🏢 ⛔ 🌕<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -187,7 +243,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Accountant</td>
-        <td align="center">:construction:<br />Scheduled</td>
+        <td align="center">:construction:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
         <td></td>
@@ -195,15 +251,15 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Profile</td>
-        <td align="center">:construction:<br />Scheduled</td>
+        <td align="center">:construction:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
-        <td>beta-0.1.0</td>
+        <td>0.1.0</td>
         <td></td>
     </tr>
     <tr>
         <td>Bookmark</td>
-        <td align="center">:construction:<br />Scheduled</td>
+        <td align="center">:construction:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
         <td></td>
@@ -211,7 +267,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Wishlist</td>
-        <td align="center">:construction:<br />Scheduled</td>
+        <td align="center">:construction:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
         <td></td>
@@ -219,7 +275,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Show Me The Code</td>
-        <td align="center">:warning:<br />Archived</td>
+        <td align="center">:warning:</td>
         <td>/project</td>
         <td align="center">:octocat:<br /><a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">ShowMeTheCode</a></td>
         <td>0.0.1</td>
@@ -227,7 +283,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Any Real-Time Events</td>
-        <td align="center">:construction:<br />Scheduled</td>
+        <td align="center">:construction:</td>
         <td>/project</td>
         <td align="center">:octocat:<br /><a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">AnyRealTimeEvents</a></td>
         <td>0.0.1</td>
@@ -235,7 +291,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Any FaceID</td>
-        <td align="center">:construction:<br />Scheduled</td>
+        <td align="center">:construction:</td>
         <td>/project</td>
         <td align="center">:octocat:<br /><a target="_blank" href="https://github.com/sh1chan/AnyFaceID">AnyFaceID</a></td>
         <td>0.0.1</td>
@@ -243,7 +299,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Small Tool Box</td>
-        <td align="center">:construction:<br />Scheduled</td>
+        <td align="center">:construction:</td>
         <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
@@ -251,7 +307,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Query Tags</td>
-        <td align="center">:warning:<br />Archived</td>
+        <td align="center">:warning:</td>
         <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
@@ -259,7 +315,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Sage0x0</td>
-        <td align="center">:warning:<br />Archived</td>
+        <td align="center">:warning:</td>
         <td>/game/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
@@ -267,7 +323,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Advent</td>
-        <td align="center">:warning:<br />Archived</td>
+        <td align="center">:warning:</td>
         <td>/game/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
         <td>0.0.1</td>
@@ -281,7 +337,7 @@ Table Structure: https://github.com/seefs001/xox
             <span>Hatsune Miku: COLORFUL STAGE!</span><br />
             <span>プロジェクトセカイ カラフルステージ！ feat. 初音ミク</span>
         </td>
-        <td align="center">:warning:<br />Archived</td>
+        <td align="center">:warning:</td>
         <td>/game</td>
         <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
         <td>0.1.0</td>
@@ -292,7 +348,7 @@ Table Structure: https://github.com/seefs001/xox
             <span>BanG Dream! Girls Band Party!</span><br />
             <span>バンドリ！ ガールズバンドパーティ！</span>
         </td>
-        <td align="center">:warning:<br />Archived</td>
+        <td align="center">:warning:</td>
         <td>/game</td>
         <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
         <td>0.1.0</td>
