@@ -262,7 +262,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:warning:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/j1bun/identity">:octocat:</a></td>
-        <td>0.1.0</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
@@ -293,7 +293,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Show Me The Code</td>
         <td align="center">:warning:</td>
         <td>/project</td>
-        <td align="center"><a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -301,7 +301,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Any Real-Time Events</td>
         <td align="center">:construction:</td>
         <td>/project</td>
-        <td align="center"><a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -309,7 +309,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Any FaceID</td>
         <td align="center">:construction:</td>
         <td>/project</td>
-        <td align="center"><a target="_blank" href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -318,7 +318,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:construction:</td>
         <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
-        <td>0.0.1</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
@@ -326,7 +326,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:warning:</td>
         <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
-        <td>0.0.1</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
@@ -342,7 +342,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:warning:</td>
         <td>/game/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
-        <td>0.0.1</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
