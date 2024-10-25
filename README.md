@@ -1,173 +1,170 @@
 <div align="center">
-    <p style="margin: 0px;">MSK+3 :: UnEmployed with NoSchool</p>
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" checked="checked" />
+    <div align="center">
+        <p style="margin: 0px;">MSK+3 :: UnEmployed with NoSchool</p>
+        :ballot_box_with_check:
+        :ballot_box_with_check:
+        :ballot_box_with_check:.
+        :ballot_box_with_check:
+        :ballot_box_with_check:
+        :ballot_box_with_check:.
+        :ballot_box_with_check:
+        :black_square_button:
+        :black_square_button:.
+        :black_square_button:
+        :black_square_button:
+        :black_square_button:.
+        :black_square_button:
+        :black_square_button:
+        :black_square_button:.
+        :black_square_button:
+        :black_square_button:
+        :black_square_button:.
+        :black_square_button:
+        :black_square_button:
+        :black_square_button:.
+        :black_square_button:
+        :black_square_button:
+        :ballot_box_with_check:
+    </div>
+    <details>
+        <summary>In the near future</summary>
+        <div align="center">
+            <p style="margin: 0px;">MSK+3 :: Work 08.00 - 17.00 </p>
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:
+        </div>
+        <div align="center">
+            <p style="margin: 0px;">MSK+3 :: Work 10.00 - 19.00 </p>
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:
+        </div>
+        <div align="center">
+            <p style="margin: 0px;">GMT+9 :: School 8.30 - 12.40 </p>
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:
+        </div>
+        <div align="center">
+            <p style="margin: 0px;">GMT+9 :: School 13.00 - 17.00 </p>
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:
+        </div>
+        <div align="center">
+            <p style="margin: 0px;">MSK+3 :: Summary with NoSleep </p>
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :ballot_box_with_check:
+            :ballot_box_with_check:.
+            :ballot_box_with_check:
+            :black_square_button:
+            :black_square_button:.
+            :black_square_button:
+            :black_square_button:
+            :black_square_button:
+        </div>
+    </details>
 </div>
-
-<details align="center">
-    <summary>In the near future</summary>
-<div align="center">
-    <p style="margin: 0px;">MSK+3 :: Work 08.00 - 17.00 </p>
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />
-</div>
-
-<div align="center">
-    <p style="margin: 0px;">MSK+3 :: Work 10.00 - 19.00 </p>
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />
-</div>
-
-<div align="center">
-    <p style="margin: 0px;">GMT+9 :: School 8.30 - 12.40 </p>
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />
-</div>
-
-<div align="center">
-    <p style="margin: 0px;">GMT+9 :: School 13.00 - 17.00 </p>
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />
-</div>
-
-<div align="center">
-    <p style="margin: 0px;">MSK+3 :: Summary with NoSleep </p>
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" checked="checked" />.
-    <input type="checkbox" checked="checked" />
-    <input type="checkbox" />
-    <input type="checkbox" />.
-    <input type="checkbox" />
-    <input type="checkbox" />
-    <input type="checkbox" />
-</div>
-</details>
 
 <!--
 Table Structure: https://github.com/seefs001/xox
