@@ -258,10 +258,18 @@ Table Structure: https://github.com/seefs001/xox
         <td></td>
     </tr>
     <tr>
-        <td>Identity</td>
+        <td>Chat</td>
         <td align="center">:warning:</td>
         <td>/app</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/j1bun/identity">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/chat">:octocat:</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Timer</td>
+        <td align="center">:warning:</td>
+        <td>/app</td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/timer">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -286,6 +294,14 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:construction:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Identity</td>
+        <td align="center">:warning:</td>
+        <td>/app</td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/j1bun/identity">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
