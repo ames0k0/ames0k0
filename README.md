@@ -52,7 +52,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             </tr>
             <tr>
                 <td>:octocat:</td>
-                <td>Public</td>
+                <td>Public Link</td>
             </tr>
             <tr>
                 <td>🚧</td>
@@ -201,7 +201,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
         </div>
         <div align="center">🕒 🏫 🏢 ⛔ 🌕<br />
             :black_square_button:
-            :black_square_button:🏫 
+            :black_square_button:
             :black_square_button:.
             :ballot_box_with_check:
             :ballot_box_with_check:
