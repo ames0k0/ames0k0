@@ -221,4 +221,16 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td colspan="6" align="center">Rhythm Games</td>
     </tr>
+    <tr>
+        <td>
+            <span>Hatsune Miku: COLORFUL STAGE!</span><br />
+            <span>プロジェクトセカイ カラフルステージ！ feat. 初音ミク</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <span>BanG Dream! Girls Band Party!</span><br />
+            <span>バンドリ！ ガールズバンドパーティ！</span>
+        </td>
+    </tr>
 </table>
