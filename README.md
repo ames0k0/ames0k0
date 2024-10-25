@@ -261,7 +261,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Chat</td>
         <td align="center">:warning:</td>
         <td>/app</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/chat">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/chat">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -269,7 +269,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Timer</td>
         <td align="center">:warning:</td>
         <td>/app</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/timer">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/timer">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -277,7 +277,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Accountant</td>
         <td align="center">:warning:</td>
         <td>/app</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/yotsuba-na/accountant">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/yotsuba-na/accountant">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -301,7 +301,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Identity</td>
         <td align="center">:warning:</td>
         <td>/app</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/j1bun/identity">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/j1bun/identity">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -309,7 +309,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Show Me The Code</td>
         <td align="center">:warning:</td>
         <td>/project</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -317,7 +317,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Any Real-Time Events</td>
         <td align="center">:construction:</td>
         <td>/project</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -325,7 +325,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Any FaceID</td>
         <td align="center">:construction:</td>
         <td>/project</td>
-        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
@@ -371,7 +371,7 @@ Table Structure: https://github.com/seefs001/xox
         </td>
         <td align="center">:warning:</td>
         <td>/game</td>
-        <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
+        <td align="center"><a href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
         <td>0.1.0</td>
         <td></td>
     </tr>
@@ -382,7 +382,7 @@ Table Structure: https://github.com/seefs001/xox
         </td>
         <td align="center">:warning:</td>
         <td>/game</td>
-        <td align="center"><a target="_blank" href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
+        <td align="center"><a href="https://github.com/aintp3d0/BangDream-archive">:octocat:</a></td>
         <td>0.1.0</td>
         <td></td>
     </tr>
