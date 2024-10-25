@@ -3,7 +3,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
 -->
 
 <div align="center">
-    <div align="center">🕒 🏠 UnEmployed with NoSchool<br />
+    <div align="center">🕒 🏠 🚫 🏢 🏫 <br />
         :ballot_box_with_check:
         :ballot_box_with_check:
         :ballot_box_with_check:.
@@ -83,7 +83,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">🕘 🏫 8.30 - 12.40<br />
+        <div align="center">🕘 🏫 08.30 - 12.40<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -135,7 +135,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">🕒 🏫 🏢 Summary with NoSleep<br />
+        <div align="center">🕒 🏫 🏢 🚫 🌕<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
