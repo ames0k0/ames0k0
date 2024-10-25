@@ -180,57 +180,76 @@ Table Structure: https://github.com/seefs001/xox
         <th>Host</th>
     </tr>
     <tr>
-        <td colspan="6" align="center">j1bun</td>
+        <td colspan="6" align="center"><strong>j1bun</strong></td>
     </tr>
     <tr>
-        <td colspan="6" align="center">sh1chan</td>
+        <td colspan="6" align="center"><strong>sh1chan</strong></td>
     </tr>
     <tr>
         <td>Accountant</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
         <td>Profile</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
         <td>Bookmark</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
         <td>Wishlist</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Show Me The Code</td>
+        <td>Show Me The Code</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Any Real-Time Events</td>
+        <td>Any Real-Time Events</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Any FaceID</td>
+        <td>Any FaceID</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Small Tool Box</td>
+        <td>Small Tool Box</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Query Tags</td>
+        <td>Query Tags</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Sage0x0</td>
+        <td>Sage0x0</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Advent</td>
+        <td align="left">Advent</td>
+        <td colspan="5">:construction: Scheduled</td>
     </tr>
     <tr>
-        <td colspan="6" align="center">Rhythm Games</td>
+        <td colspan="6" align="center"><strong>Rhythm Games</strong></td>
     </tr>
     <tr>
         <td>
             <span>Hatsune Miku: COLORFUL STAGE!</span><br />
             <span>プロジェクトセカイ カラフルステージ！ feat. 初音ミク</span>
         </td>
+        <td>:warning: Archived</td>
+        <td></td>
+        <td><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
+        <td colspan="2"></td>
     </tr>
     <tr>
         <td>
             <span>BanG Dream! Girls Band Party!</span><br />
             <span>バンドリ！ ガールズバンドパーティ！</span>
         </td>
+        <td>:warning: Archived</td>
+        <td></td>
+        <td><a target="_blank" href="https://github.com/aintp3d0/rythm-games">rythm-games</a></td>
+        <td colspan="2"></td>
     </tr>
 </table>
