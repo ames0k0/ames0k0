@@ -11,43 +11,43 @@ Emoji: https://gist.github.com/rxaviers/7360908
                 <th>Meaning</th>
             </tr>
             <tr>
-                <td>🕒</td>
+                <td>:clock3:</td>
                 <td>MSK+3</td>
             </tr>
             <tr>
-                <td>🕘</td>
+                <td>:clock9:</td>
                 <td>GMT+9</td>
             </tr>
             <tr>
-                <td>☑️</td>
+                <td>:ballot_box_with_check:</td>
                 <td>Busy Time</td>
             </tr>
             <tr>
-                <td>🔲</td>
+                <td>:white_square_button:</td>
                 <td>Free Time</td>
             </tr>
             <tr>
-                <td>🏢</td>
+                <td>:office:</td>
                 <td>Working</td>
             </tr>
             <tr>
-                <td>🏠</td>
+                <td>:house:</td>
                 <td>Home Alone</td>
             </tr>
             <tr>
-                <td>🏫</td>
+                <td>:school:</td>
                 <td>Studying in School</td>
             </tr>
             <tr>
-                <td>🌕</td>
+                <td>:full_moon:</td>
                 <td>Sleeping</td>
             </tr>
             <tr>
-                <td>⛔</td>
+                <td>:no_entry:</td>
                 <td>Without</td>
             </tr>
             <tr>
-                <td>🚫</td>
+                <td>:no_entry_sign:</td>
                 <td>Private</td>
             </tr>
             <tr>
@@ -55,11 +55,11 @@ Emoji: https://gist.github.com/rxaviers/7360908
                 <td>Public Link</td>
             </tr>
             <tr>
-                <td>🚧</td>
+                <td>:construction:</td>
                 <td>Scheduled</td>
             </tr>
             <tr>
-                <td>⚠️</td>
+                <td>:warning:</td>
                 <td>Archived</td>
             </tr>
         </table>
@@ -67,7 +67,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
 </div>
 
 <div align="center">
-    <div align="center">🕒 🏠 🌕 ⛔ 🏢 🏫 <br />
+    <div align="center">:clock3: :house: :full_moon: :no_entry: :office: :school: <br />
         :ballot_box_with_check:
         :ballot_box_with_check:
         :ballot_box_with_check:.
@@ -95,7 +95,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
     </div>
     <details>
         <summary>...</summary>
-        <div align="center">🕒 🏢 08.00 - 17.00<br />
+        <div align="center">:clock3: :office: 08.00 - 17.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -121,7 +121,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">🕒 🏢 10.00 - 19.00<br />
+        <div align="center">:clock3: :office: 10.00 - 19.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -147,7 +147,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">🕘 🏫 08.30 - 12.40<br />
+        <div align="center">:clock9: :school: 08.30 - 12.40<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -173,7 +173,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">🕘 🏫 13.00 - 17.00<br />
+        <div align="center">:clock9: :school: 13.00 - 17.00<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -199,7 +199,7 @@ Emoji: https://gist.github.com/rxaviers/7360908
             :black_square_button:
             :black_square_button:
         </div>
-        <div align="center">🕒 🏫 🏢 ⛔ 🌕<br />
+        <div align="center">:clock3: :office: :school: :no_entry: :house: :full_moon:<br />
             :black_square_button:
             :black_square_button:
             :black_square_button:.
@@ -250,19 +250,27 @@ Table Structure: https://github.com/seefs001/xox
         <td colspan="6" align="center"><strong>sh1chan</strong></td>
     </tr>
     <tr>
-        <td>Accountant</td>
-        <td align="center">:construction:</td>
-        <td>/app</td>
-        <td align="center">:no_entry_sign:</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Profile</td>
         <td align="center">:construction:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
         <td>0.1.0</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Identity</td>
+        <td align="center">:warning:</td>
+        <td>/app</td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/j1bun/identity">:octocat:</a></td>
+        <td>0.1.0</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Accountant</td>
+        <td align="center">:warning:</td>
+        <td>/app</td>
+        <td align="center">:no_entry_sign: <a target="_blank" href="https://github.com/yotsuba-na/accountant">:octocat:</a></td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
