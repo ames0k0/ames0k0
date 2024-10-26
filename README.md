@@ -253,7 +253,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Profile</td>
         <td align="center">:construction:</td>
         <td>/app</td>
-        <td align="center">:no_entry_sign:</td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/.github/blob/main/DOCS/README/PROFILE.md">:octocat:</a></td>
         <td>0.1.0</td>
         <td></td>
     </tr>
@@ -283,7 +283,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Bookmark</td>
-        <td align="center">:construction:</td>
+        <td align="center">:warning:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
         <td></td>
@@ -291,7 +291,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Wishlist</td>
-        <td align="center">:construction:</td>
+        <td align="center">:warning:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign:</td>
         <td></td>
@@ -323,7 +323,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Any FaceID</td>
-        <td align="center">:construction:</td>
+        <td align="center">:warning:</td>
         <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
         <td>0.0.1</td>
