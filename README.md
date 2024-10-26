@@ -347,9 +347,9 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>Sage0x0</td>
-        <td align="center">:warning:</td>
+        <td align="center">:construction:</td>
         <td>/game/sns/tg</td>
-        <td align="center">:no_entry_sign:</td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a></td>
         <td>0.0.1</td>
         <td></td>
     </tr>
