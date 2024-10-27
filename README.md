@@ -3,7 +3,10 @@ Emoji: https://gist.github.com/rxaviers/7360908
 -->
 
 <div align="center">
-    <p>没有计划！找不到，可能也不会找到。。。</p>
+    <details>
+        <summary>没有计划！找不到，可能也不会找到</summary>
+        <img src="./static/banner/YagamiLightName.gif" />
+    </details>
     <details>
         <summary>Emoji Meaning</summary>
         <table>
