@@ -337,7 +337,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>Small Tool Box</td>
         <td align="center">:construction:</td>
         <td>/service/sns/tg</td>
-        <td align="center">:no_entry_sign:</td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
