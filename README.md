@@ -310,31 +310,31 @@ Table Structure: https://github.com/seefs001/xox
         <td></td>
     </tr>
     <tr>
-        <td>Show Me The Code</td>
+        <td>ShowMeTheCode</td>
         <td align="center">:warning:</td>
         <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
-        <td>0.0.1</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>Any Real-Time Events</td>
-        <td align="center">:construction:</td>
+        <td>AnyRealTimeEvents</td>
+        <td align="center">:warning:</td>
         <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
-        <td>0.0.1</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>Any FaceID</td>
+        <td>AnyFaceID</td>
         <td align="center">:warning:</td>
         <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
-        <td>0.0.1</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>Small Tool Box</td>
+        <td>SmallToolBox</td>
         <td align="center">:construction:</td>
         <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
@@ -342,7 +342,7 @@ Table Structure: https://github.com/seefs001/xox
         <td></td>
     </tr>
     <tr>
-        <td>Query Tags</td>
+        <td>QueryTags</td>
         <td align="center">:warning:</td>
         <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign:</td>
@@ -354,7 +354,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:construction:</td>
         <td>/game/sns/tg</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a></td>
-        <td>0.1.0</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:warning:</td>
         <td>/game</td>
         <td align="center"><a href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
-        <td>0.1.0</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
@@ -387,7 +387,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:warning:</td>
         <td>/game</td>
         <td align="center"><a href="https://github.com/aintp3d0/BangDream-archive">:octocat:</a></td>
-        <td>0.1.0</td>
+        <td></td>
         <td></td>
     </tr>
 </table>
