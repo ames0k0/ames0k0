@@ -338,8 +338,8 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:construction:</td>
         <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
-        <td></td>
-        <td></td>
+        <td>0.1.0</td>
+        <td><a href="https://t.me/smalltoolboxbot">TG</a></td>
     </tr>
     <tr>
         <td>QueryTags</td>
