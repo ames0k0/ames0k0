@@ -262,50 +262,10 @@ Table Structure: https://github.com/seefs001/xox
         <td></td>
     </tr>
     <tr>
-        <td>Chat</td>
-        <td align="center">:warning:</td>
-        <td>/app</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/chat">:octocat:</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Timer</td>
-        <td align="center">:warning:</td>
-        <td>/app</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/timer">:octocat:</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Accountant</td>
         <td align="center">:warning:</td>
         <td>/app</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/yotsuba-na/accountant">:octocat:</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Bookmark</td>
-        <td align="center">:warning:</td>
-        <td>/app</td>
-        <td align="center">:no_entry_sign:</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Wishlist</td>
-        <td align="center">:warning:</td>
-        <td>/app</td>
-        <td align="center">:no_entry_sign:</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Identity</td>
-        <td align="center">:warning:</td>
-        <td>/app</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/j1bun/identity">:octocat:</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -346,6 +306,14 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:construction:</td>
         <td>/game/sns/tg</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>MoePolice</td>
+        <td align="center">:construction:</td>
+        <td></td>
+        <td align="center">:no_entry_sign:</td>
         <td></td>
         <td></td>
     </tr>
