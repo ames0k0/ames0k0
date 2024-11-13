@@ -270,14 +270,6 @@ Table Structure: https://github.com/seefs001/xox
         <td></td>
     </tr>
     <tr>
-        <td>ShowMeTheCode</td>
-        <td align="center">:warning:</td>
-        <td>/project</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>AnyRealTimeEvents</td>
         <td align="center">:warning:</td>
         <td>/project</td>
@@ -294,14 +286,6 @@ Table Structure: https://github.com/seefs001/xox
         <td></td>
     </tr>
     <tr>
-        <td>SmallToolBox</td>
-        <td align="center">:construction:</td>
-        <td>/service/sns/tg</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
-        <td>0.1.0</td>
-        <td><a href="https://t.me/smalltoolboxbot">TG</a></td>
-    </tr>
-    <tr>
         <td>Sage0x0</td>
         <td align="center">:construction:</td>
         <td>/game/sns/tg</td>
@@ -316,6 +300,33 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:no_entry_sign:</td>
         <td></td>
         <td></td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center"><strong>Show Me The Code</strong></td>
+    </tr>
+    <tr>
+        <td>smtc</td>
+        <td align="center">:warning:</td>
+        <td>/project</td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>smtcTG</td>
+        <td align="center">:construction:</td>
+        <td></td>
+        <td align="center">:no_entry_sign:</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>SmallToolBox</td>
+        <td align="center">:warning:</td>
+        <td>/service/sns/tg</td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
+        <td>0.1.0</td>
+        <td><a href="https://t.me/smalltoolboxbot">TG</a></td>
     </tr>
     <tr>
         <td colspan="6" align="center"><strong>Rhythm Games</strong></td>
