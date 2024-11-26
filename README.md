@@ -314,7 +314,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td>smtcTG</td>
-        <td align="center">:construction:</td>
+        <td align="center">:warning:</td>
         <td></td>
         <td align="center">:no_entry_sign:</td>
         <td></td>
