@@ -298,7 +298,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:construction:</td>
         <td></td>
         <td align="center">:no_entry_sign:</td>
-        <td></td>
+        <td>0.0.1</td>
         <td></td>
     </tr>
     <tr>
