@@ -294,11 +294,11 @@ Table Structure: https://github.com/seefs001/xox
         <td></td>
     </tr>
     <tr>
-        <td>MoePolice</td>
+        <td>MoeInterpol</td>
         <td align="center">:construction:</td>
         <td></td>
-        <td align="center">:no_entry_sign:</td>
-        <td>0.0.1</td>
+        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/MoeInterpol">:octocat:</a></td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
@@ -309,14 +309,6 @@ Table Structure: https://github.com/seefs001/xox
         <td align="center">:warning:</td>
         <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>smtcTG</td>
-        <td align="center">:warning:</td>
-        <td></td>
-        <td align="center">:no_entry_sign:</td>
         <td></td>
         <td></td>
     </tr>
