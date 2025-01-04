@@ -242,7 +242,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <th>Project</th>
         <th>Status</th>
-        <th>Route</th>
         <th>Code</th>
         <th>Release</th>
         <th>Host</th>
@@ -256,7 +255,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>Profile</td>
         <td align="center">:construction:</td>
-        <td>/app</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/.github/blob/main/DOCS/README/PROFILE.md">:octocat:</a></td>
         <td>0.1.0</td>
         <td></td>
@@ -264,7 +262,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>Accountant</td>
         <td align="center">:warning:</td>
-        <td>/app</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/yotsuba-na/accountant">:octocat:</a></td>
         <td></td>
         <td></td>
@@ -272,7 +269,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>AnyRealTimeEvents</td>
         <td align="center">:warning:</td>
-        <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
         <td></td>
         <td></td>
@@ -280,7 +276,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>AnyFaceID</td>
         <td align="center">:warning:</td>
-        <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
         <td></td>
         <td></td>
@@ -288,7 +283,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>Sage0x0</td>
         <td align="center">:construction:</td>
-        <td>/game/sns/tg</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a></td>
         <td></td>
         <td></td>
@@ -296,7 +290,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>MoeInterpol</td>
         <td align="center">:construction:</td>
-        <td></td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/MoeInterpol">:octocat:</a></td>
         <td></td>
         <td></td>
@@ -307,7 +300,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>smtc</td>
         <td align="center">:warning:</td>
-        <td>/project</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
         <td></td>
         <td></td>
@@ -315,7 +307,6 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td>SmallToolBox</td>
         <td align="center">:warning:</td>
-        <td>/service/sns/tg</td>
         <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
         <td>0.1.0</td>
         <td><a href="https://t.me/smalltoolboxbot">TG</a></td>
@@ -329,7 +320,6 @@ Table Structure: https://github.com/seefs001/xox
             <span>プロジェクトセカイ カラフルステージ！ feat. 初音ミク</span>
         </td>
         <td align="center">:warning:</td>
-        <td>/game</td>
         <td align="center"><a href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
         <td></td>
         <td></td>
@@ -340,7 +330,6 @@ Table Structure: https://github.com/seefs001/xox
             <span>バンドリ！ ガールズバンドパーティ！</span>
         </td>
         <td align="center">:warning:</td>
-        <td>/game</td>
         <td align="center"><a href="https://github.com/aintp3d0/BangDream-archive">:octocat:</a></td>
         <td></td>
         <td></td>
