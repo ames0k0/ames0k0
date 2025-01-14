@@ -245,6 +245,19 @@ Table Structure: https://github.com/seefs001/xox
         <th>Title</th>
     </tr>
     <tr>
+        <td colspan="3" align="center"><strong>Show Off</strong></td>
+    </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/ames0k0/TestWork">:octocat:</a> :construction:</td>
+        <td align="right"></td>
+        <td>Test Works / Tasks, Projects, Scripts</td>
+    </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/ames0k0/datachi/blob/master/dj-lightning/test_v2.gif">:octocat:</a> :warning:</td>
+        <td align="right"></td>
+        <td>DJ Lightning</td>
+    </tr>
+    <tr>
         <td colspan="3" align="center"><strong>Projects</strong></td>
     </tr>
     <tr>
