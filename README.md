@@ -240,98 +240,60 @@ Table Structure: https://github.com/seefs001/xox
 
 <table align="center">
     <tr>
-        <th>Project</th>
-        <th>Status</th>
-        <th>Code</th>
-        <th>Release</th>
-        <th>Host</th>
+        <th>S/C</th>
+        <th>-V</th>
+        <th>Title</th>
     </tr>
     <tr>
-        <td colspan="6" align="center"><strong>j1bun</strong></td>
+        <td colspan="3" align="center"><strong>Projects</strong></td>
     </tr>
     <tr>
-        <td colspan="6" align="center"><strong>sh1chan</strong></td>
+        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan">:octocat:</td>
+        <td></td>
+        <td>j1bun</td>
     </tr>
     <tr>
-        <td>Profile</td>
-        <td align="center">:construction:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/.github/blob/main/DOCS/README/PROFILE.md">:octocat:</a></td>
-        <td>0.1.0</td>
-        <td></td>
+        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan">:octocat:</td>
+        <td>0.0.1</td>
+        <td>sh1chan</td>
     </tr>
     <tr>
-        <td>Accountant</td>
-        <td align="center">:warning:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/yotsuba-na/accountant">:octocat:</a></td>
+        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a></td>
         <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>AnyRealTimeEvents</td>
-        <td align="center">:warning:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyRealTimeEvents">:octocat:</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>AnyFaceID</td>
-        <td align="center">:warning:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/AnyFaceID">:octocat:</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Sage0x0</td>
-        <td align="center">:construction:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
+        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan/MoeInterpol">:octocat:</a></td>
+        <td></td>
         <td>MoeInterpol</td>
-        <td align="center">:construction:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/MoeInterpol">:octocat:</a></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
-        <td colspan="6" align="center"><strong>Show Me The Code</strong></td>
-    </tr>
-    <tr>
+        <td>:warning: :no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
+        <td></td>
         <td>smtc</td>
-        <td align="center">:warning:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
-        <td>SmallToolBox</td>
-        <td align="center">:warning:</td>
-        <td align="center">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
-        <td>0.1.0</td>
-        <td><a href="https://t.me/smalltoolboxbot">TG</a></td>
-    </tr>
-    <tr>
-        <td colspan="6" align="center"><strong>Rhythm Games</strong></td>
-    </tr>
-    <tr>
+        <td align="center">:warning: <a href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
+        <td align="center"></td>
         <td>
             <span>Hatsune Miku: COLORFUL STAGE!</span><br />
             <span>プロジェクトセカイ カラフルステージ！ feat. 初音ミク</span>
         </td>
-        <td align="center">:warning:</td>
-        <td align="center"><a href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
+        <td align="center">:warning: <a href="https://github.com/aintp3d0/BangDream-archive">:octocat:</a></td>
+        <td align="center"></td>
         <td>
             <span>BanG Dream! Girls Band Party!</span><br />
             <span>バンドリ！ ガールズバンドパーティ！</span>
         </td>
-        <td align="center">:warning:</td>
-        <td align="center"><a href="https://github.com/aintp3d0/BangDream-archive">:octocat:</a></td>
-        <td></td>
-        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><strong>Tools</strong></td>
+    </tr>
+    <tr>
+        <td align="center">:warning: :no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
+        <td>0.1.0</td>
+        <td>SmallToolBox</td>
     </tr>
 </table>
