@@ -240,7 +240,7 @@ Table Structure: https://github.com/seefs001/xox
 
 <table align="center">
     <tr>
-        <th>S/C</th>
+        <th>C / S</th>
         <th>-V</th>
         <th>Title</th>
     </tr>
@@ -248,52 +248,51 @@ Table Structure: https://github.com/seefs001/xox
         <td colspan="3" align="center"><strong>Projects</strong></td>
     </tr>
     <tr>
-        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan">:octocat:</td>
-        <td></td>
+        <td align="right">:no_entry_sign: <a href="https://github.com/j1bun">:octocat:</a> :construction:</td>
+        <td align="right"></td>
         <td>j1bun</td>
     </tr>
     <tr>
-        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan">:octocat:</td>
-        <td>0.0.1</td>
+        <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan">:octocat:</a> :construction:</td>
+        <td align="right">0.0.1</td>
         <td>sh1chan</td>
     </tr>
     <tr>
-        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a></td>
-        <td></td>
-        <td>Sage0x0</td>
-    </tr>
-    <tr>
-        <td>:construction: :no_entry_sign: <a href="https://github.com/sh1chan/MoeInterpol">:octocat:</a></td>
-        <td></td>
-        <td>MoeInterpol</td>
-    </tr>
-    <tr>
-        <td>:warning: :no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a></td>
-        <td></td>
+        <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a> :warning:</td>
+        <td align="right"></td>
         <td>smtc</td>
     </tr>
     <tr>
-        <td align="center">:warning: <a href="https://github.com/aintp3d0/rythm-games">:octocat:</a></td>
-        <td align="center"></td>
-        <td>
-            <span>Hatsune Miku: COLORFUL STAGE!</span><br />
-            <span>プロジェクトセカイ カラフルステージ！ feat. 初音ミク</span>
-        </td>
+        <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan/MoeInterpol">:octocat:</a> :construction:</td>
+        <td align="right"></td>
+        <td>MoeInterpol</td>
     </tr>
     <tr>
-        <td align="center">:warning: <a href="https://github.com/aintp3d0/BangDream-archive">:octocat:</a></td>
-        <td align="center"></td>
-        <td>
-            <span>BanG Dream! Girls Band Party!</span><br />
-            <span>バンドリ！ ガールズバンドパーティ！</span>
-        </td>
+        <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan/TitleDiff">:octocat:</a> :construction:</td>
+        <td align="right">0.0.2</td>
+        <td>TitleDiff</td>
+    </tr>
+    <tr>
+        <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a> :construction:</td>
+        <td align="right"></td>
+        <td>Sage0x0</td>
+    </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/aintp3d0/rythm-games">:octocat:</a> :warning:</td>
+        <td align="right"></td>
+        <td>Rythm Games: BanG Dream, ColorfulStage</td>
     </tr>
     <tr>
         <td colspan="3" align="center"><strong>Tools</strong></td>
     </tr>
     <tr>
-        <td align="center">:warning: :no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a></td>
-        <td>0.1.0</td>
+        <td align="right"><a href="https://github.com/ames0k0/IssueTracker">:octocat:</a> :warning:</td>
+        <td align="right">0.0.5</td>
+        <td>IssueTracker</td>
+    </tr>
+    <tr>
+        <td align="rigth">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a> :warning:</td>
+        <td align="right">0.1.0</td>
         <td>SmallToolBox</td>
     </tr>
 </table>
