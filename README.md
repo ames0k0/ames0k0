@@ -308,7 +308,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>IssueTracker</td>
     </tr>
     <tr>
-        <td align="rigth">:no_entry_sign: <a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a> :green_heart:</td>
+        <td align="right"><a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a> :green_heart:</td>
         <td align="right">0.1.0</td>
         <td>SmallToolBox</td>
     </tr>
