@@ -295,9 +295,9 @@ Table Structure: https://github.com/seefs001/xox
         <td>Sage0x0</td>
     </tr>
     <tr>
-        <td align="right"><a href="https://github.com/aintp3d0/rythm-games">:octocat:</a> :mending_heart:</td>
+        <td align="right"><a href="https://github.com/aintp3d0/GameProfile">:octocat:</a> :green_heart:</td>
         <td align="right"></td>
-        <td>Rythm Games: BanG Dream, ColorfulStage</td>
+        <td>GameProfile</td>
     </tr>
     <tr>
         <td colspan="3" align="center"><strong>Tools</strong></td>
