@@ -254,7 +254,7 @@ Table Structure: https://github.com/seefs001/xox
     <tr>
         <td align="right"><a href="https://github.com/ames0k0/TestWork">:octocat:</a> :green_heart:</td>
         <td align="right"></td>
-        <td>Test Works / Tasks, Projects, Scripts</td>
+        <td>Test Works / Tasks</td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/ames0k0/datachi/blob/master/dj-lightning/test_v2.gif">:octocat:</a> :mending_heart:</td>
@@ -285,7 +285,7 @@ Table Structure: https://github.com/seefs001/xox
         <td>MoeInterpol</td>
     </tr>
     <tr>
-        <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan/TitleDiff">:octocat:</a> :green_heart:</td>
+        <td align="right">:no_entry_sign: <a href="https://github.com/aintp3d0/TitleDiff">:octocat:</a> :green_heart:</td>
         <td align="right">0.0.2</td>
         <td>TitleDiff</td>
     </tr>
