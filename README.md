@@ -15,6 +15,10 @@ Emoji: https://gist.github.com/rxaviers/7360908
                 <th>Meaning</th>
             </tr>
             <tr>
+                <td>:clock130:</td>
+                <td>・・・キラだから</td>
+            </tr>
+            <tr>
                 <td>:clock3:</td>
                 <td>MSK+3</td>
             </tr>
