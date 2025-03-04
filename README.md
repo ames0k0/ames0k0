@@ -269,7 +269,7 @@ Table Structure: https://github.com/seefs001/xox
         <td colspan="3" align="center"><strong>Projects</strong></td>
     </tr>
     <tr>
-        <td align="right">:no_entry_sign: <a href="https://github.com/j1bun">:octocat:</a> :mending_heart:</td>
+        <td align="right">:no_entry_sign: <a href="https://github.com/j1bun">:octocat:</a> :orange_heart:</td>
         <td align="right"></td>
         <td>j1bun</td>
     </tr>
@@ -278,6 +278,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="right">0.0.1</td>
         <td>sh1chan</td>
     </tr>
+    <!--
     <tr>
         <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan/ShowMeTheCode">:octocat:</a> :orange_heart:</td>
         <td align="right"></td>
@@ -288,16 +289,19 @@ Table Structure: https://github.com/seefs001/xox
         <td align="right"></td>
         <td>MoeInterpol</td>
     </tr>
+    -->
     <tr>
         <td align="right">:no_entry_sign: <a href="https://github.com/aintp3d0/TitleDiff">:octocat:</a> :green_heart:</td>
         <td align="right">0.0.2</td>
         <td>TitleDiff</td>
     </tr>
+    <!--
     <tr>
         <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan/Sage0x0">:octocat:</a> :orange_heart:</td>
         <td align="right"></td>
         <td>Sage0x0</td>
     </tr>
+    -->
     <tr>
         <td align="right"><a href="https://github.com/aintp3d0/GameProfile">:octocat:</a> :green_heart:</td>
         <td align="right"></td>
