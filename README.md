@@ -315,7 +315,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     -->
     <tr>
-        <td align="right"><a href="https://github.com/aintp3d0/GameProfile">:octocat:</a> :green_heart:</td>
+        <td align="right"><a href="https://github.com/aintp3d0/GameProfile">:octocat:</a> :orange_heart:</td>
         <td align="right"></td>
         <td>GameProfile</td>
         <td></td>
@@ -324,13 +324,13 @@ Table Structure: https://github.com/seefs001/xox
         <td colspan="4" align="center"><strong>Tools</strong></td>
     </tr>
     <tr>
-        <td align="right"><a href="https://github.com/ames0k0/IssueTracker">:octocat:</a> :green_heart:</td>
+        <td align="right"><a href="https://github.com/ames0k0/IssueTracker">:octocat:</a> :orange_heart:</td>
         <td align="right">0.0.5</td>
         <td>IssueTracker</td>
         <td></td>
     </tr>
     <tr>
-        <td align="right"><a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a> :green_heart:</td>
+        <td align="right"><a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a> :orange_heart:</td>
         <td align="right">0.1.0</td>
         <td>SmallToolBox</td>
         <td></td>
