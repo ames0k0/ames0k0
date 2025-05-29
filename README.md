@@ -251,32 +251,43 @@ Table Structure: https://github.com/seefs001/xox
         <th>C / S</th>
         <th>-V</th>
         <th>Title</th>
+        <th>Stack</th>
     </tr>
     <tr>
-        <td colspan="3" align="center"><strong>Show Off</strong></td>
+        <td colspan="4" align="center"><strong>Show Off</strong></td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/ames0k0/TestWork">:octocat:</a> :green_heart:</td>
         <td align="right"></td>
-        <td>Test Works / Tasks</td>
+        <td>Test Tasks</td>
+        <td></td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/ames0k0/datachi/blob/master/dj-lightning/test_v2.gif">:octocat:</a> :mending_heart:</td>
         <td align="right"></td>
         <td>DJ Lightning</td>
+        <td></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><strong>Projects</strong></td>
+        <td colspan="4" align="center"><strong>Projects</strong></td>
     </tr>
     <tr>
         <td align="right">:no_entry_sign: <a href="https://github.com/j1bun">:octocat:</a> :orange_heart:</td>
         <td align="right"></td>
         <td>j1bun</td>
+        <td></td>
     </tr>
     <tr>
         <td align="right">:no_entry_sign: <a href="https://github.com/sh1chan">:octocat:</a> :orange_heart:</td>
         <td align="right">0.0.1</td>
         <td>sh1chan</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/ames0k0/url-to-web-content">:octocat:</a> :green_heart:</td>
+        <td align="right"></td>
+        <td>URL to WebContent</td>
+        <td></td>
     </tr>
     <!--
     <tr>
@@ -294,6 +305,7 @@ Table Structure: https://github.com/seefs001/xox
         <td align="right">:no_entry_sign: <a href="https://github.com/aintp3d0/TitleDiff">:octocat:</a> :green_heart:</td>
         <td align="right">0.0.2</td>
         <td>TitleDiff</td>
+        <td></td>
     </tr>
     <!--
     <tr>
@@ -306,18 +318,21 @@ Table Structure: https://github.com/seefs001/xox
         <td align="right"><a href="https://github.com/aintp3d0/GameProfile">:octocat:</a> :green_heart:</td>
         <td align="right"></td>
         <td>GameProfile</td>
+        <td></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><strong>Tools</strong></td>
+        <td colspan="4" align="center"><strong>Tools</strong></td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/ames0k0/IssueTracker">:octocat:</a> :green_heart:</td>
         <td align="right">0.0.5</td>
         <td>IssueTracker</td>
+        <td></td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/sh1chan/SmallToolBox">:octocat:</a> :green_heart:</td>
         <td align="right">0.1.0</td>
         <td>SmallToolBox</td>
+        <td></td>
     </tr>
 </table>
