@@ -285,7 +285,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/ames0k0/url-to-web-content">:octocat:</a> :green_heart:</td>
-        <td align="right"></td>
+        <td align="right">0.0.1</td>
         <td>URL to WebContent</td>
         <td></td>
     </tr>
@@ -303,7 +303,7 @@ Table Structure: https://github.com/seefs001/xox
     -->
     <tr>
         <td align="right">:no_entry_sign: <a href="https://github.com/aintp3d0/TitleDiff">:octocat:</a> :green_heart:</td>
-        <td align="right">0.0.2</td>
+        <td align="right">0.1.0</td>
         <td>TitleDiff</td>
         <td></td>
     </tr>
