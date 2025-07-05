@@ -285,7 +285,7 @@ Table Structure: https://github.com/seefs001/xox
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/ames0k0/url-to-web-content">:octocat:</a> :green_heart:</td>
-        <td align="right">0.0.1</td>
+        <td align="right">0.0.2</td>
         <td>URL to WebContent</td>
         <td></td>
     </tr>
