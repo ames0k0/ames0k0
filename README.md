@@ -1,29 +1,18 @@
-<p align="center"><img src="./static/pics/Chtholly_Nota_Seniorious.jpg" /></p>
-
----
-
-### Technologies
-
-
 ### Projects
 <details>
   <summary>[v0.1.0] - <a href="https://github.com/aintp3d0/TitleDiff">TitleDiff</a></summary>
 </details>
-
 <details>
   <summary>[v0.1.0] - NyanFlow</summary>
 </details>
-
 <details>
   <summary>[v0.1.0] - <a href="https://github.com/sh1chan/Sage0x0">Sage0x0</a></summary>
 </details>
-
 
 ### Services
 <details>
   <summary>[v0.0.2] - <a href="https://github.com/ames0k0/url-to-web-content">REST API: URL to Web Content</a></summary>
 </details>
-
 
 ### Activities
 <details>
@@ -33,7 +22,6 @@
   Tech Stack: `Python`, `FastAPI`, `Requests`, `bs4`, `PostgreSQL`, `Uvicorn`, `Docker Compose`
   <p align="center"><img src="./static/activities/FileMetadataParser.png" /></p>
 </details>
-
 <details>
   <summary>[03.07.2025] - <a href="https://github.com/ames0k0/TT--FastAPI--NSFW-Moderation">REST API: NSFW-Moderation</a></summary>
   REST API application that wraps a third-party service that detects NSFW<br />
@@ -42,12 +30,10 @@
   <p align="center"><img src="./static/activities/NSFWModeration.png" /></p>
 </details>
 
-
 ### Others
 <details>
   <summary>[Code Samples] - <a href="https://github.com/ames0k0/TestWork">TestWork</a></summary>
 </details>
-
 <details>
   <summary>[ML Project] - <a href="https://github.com/ames0k0/datachi/blob/master/dj-lightning/test_v2.gif">DJ Lightning</a></summary>
 </details>
