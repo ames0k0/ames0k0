@@ -86,6 +86,13 @@ Stats example from: https://github.com/nullnyat/nullnyat
     <td></td>
     <td>ML Project</td>
     <td><a href="https://github.com/ames0k0/datachi/blob/master/dj-lightning/test_v2.gif">DJ Lightning</a></td>
-    <td></td>
+    <td>
+<details>
+  <summary>Tech Stack</summary>
+
+  `Python`, `Scikit-learn`, `Numpy`, `Pygame`, `PyAudio`, `pydub`
+  <p align="center"><img src="./static/others/DJ-Lightning.gif" /></p>
+</details>
+    </td>
   </tr>
 </table>
