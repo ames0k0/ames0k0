@@ -1,18 +1,10 @@
 ### Projects
-<details>
-  <summary>[v0.1.0] - <a href="https://github.com/aintp3d0/TitleDiff">TitleDiff</a></summary>
-</details>
-<details>
-  <summary>[v0.1.0] - NyanFlow</summary>
-</details>
-<details>
-  <summary>[v0.1.0] - <a href="https://github.com/sh1chan/Sage0x0">Sage0x0</a></summary>
-</details>
+[v0.1.0] - <a href="https://github.com/aintp3d0/TitleDiff">TitleDiff</a><br />
+[v0.1.0] - NyanFlow<br />
+[v0.1.0] - <a href="https://github.com/sh1chan/Sage0x0">Sage0x0</a><br />
 
 ### Services
-<details>
-  <summary>[v0.0.2] - <a href="https://github.com/ames0k0/url-to-web-content">REST API: URL to Web Content</a></summary>
-</details>
+[v0.0.2] - <a href="https://github.com/ames0k0/url-to-web-content">REST API: URL to Web Content</a><br />
 
 ### Activities
 <details>
@@ -31,9 +23,5 @@
 </details>
 
 ### Others
-<details>
-  <summary>[Code Samples] - <a href="https://github.com/ames0k0/TestWork">TestWork</a></summary>
-</details>
-<details>
-  <summary>[ML Project] - <a href="https://github.com/ames0k0/datachi/blob/master/dj-lightning/test_v2.gif">DJ Lightning</a></summary>
-</details>
+[Code Samples] - <a href="https://github.com/ames0k0/TestWork">TestWork</a><br />
+[ML Project] - <a href="https://github.com/ames0k0/datachi/blob/master/dj-lightning/test_v2.gif">DJ Lightning</a><br />
