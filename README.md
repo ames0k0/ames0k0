@@ -51,6 +51,19 @@ Stats example from: https://github.com/nullnyat/nullnyat
     <td></td>
   </tr>
   <tr>
+    <td><strong>TestProjects</strong></td>
+    <td>14.06.2025</td>
+    <td><a href="https://github.com/ames0k0/TP--Audio-File-Converter">Full-Stack: Audio File Converter</a></td>
+    <td>
+<details>
+  <summary>Tech Stack</summary>
+
+  `Python`, `FastAPI`, `DRF`, `Pydub`, `Pydantic`, `JavaScript`, `TypeScript`, `Node.js`, `React`, `Vite`, `Tailwind CSS`, `FFmpeg`, `Uvicorn`, `Gunicorn`, `Docker Compose`
+  <p align="center"><img src="./static/testprojects/AudioFileConverter.png" /></p>
+</details>
+    </td>
+  </tr> 
+  <tr>
     <td><strong>TestTasks</strong></td>
     <td>05.07.2025</td>
     <td><a href="https://github.com/ames0k0/TT--FastAPI--File-Metadata-Parser">REST API: File Metadata Parser</a></td>
