@@ -27,7 +27,7 @@ Stats example from: https://github.com/nullnyat/nullnyat
 
 <table align="center">
   <tr>
-    <td>Projects</td>
+    <td><strong>Projects</strong></td>
     <td>v0.1.0</td>
     <td><a href="https://github.com/aintp3d0/TitleDiff">TitleDiff</a></td>
     <td></td>
@@ -45,13 +45,13 @@ Stats example from: https://github.com/nullnyat/nullnyat
     <td></td>
   </tr>
   <tr>
-    <td>Services</td>
+    <td><strong>Services</strong></td>
     <td>v0.0.2</td>
     <td><a href="https://github.com/ames0k0/url-to-web-content">REST API: URL to Web Content</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>Activities</td>
+    <td><strong>TestTasks</strong></td>
     <td>05.07.2025</td>
     <td><a href="https://github.com/ames0k0/TT--FastAPI--File-Metadata-Parser">REST API: File Metadata Parser</a></td>
     <td>
@@ -59,7 +59,7 @@ Stats example from: https://github.com/nullnyat/nullnyat
   <summary>Tech Stack</summary>
 
   `Python`, `FastAPI`, `Requests`, `bs4`, `PostgreSQL`, `Uvicorn`, `Docker Compose`
-  <p align="center"><img src="./static/activities/FileMetadataParser.png" /></p>
+  <p align="center"><img src="./static/testtasks/FileMetadataParser.png" /></p>
 </details>
     </td>
   </tr> 
@@ -72,12 +72,24 @@ Stats example from: https://github.com/nullnyat/nullnyat
   <summary>Tech Stack</summary>
 
   `Python`, `FastAPI`, `Pydantic`, `HTTPX`, `Uvicorn`
-  <p align="center"><img src="./static/activities/NSFWModeration.png" /></p>
+  <p align="center"><img src="./static/testtasks/NSFWModeration.png" /></p>
 </details>
     </td>
   </tr>
   <tr>
-    <td>Others</td>
+    <td></td>
+    <td>30.05.2025</td>
+    <td><a href="https://github.com/ames0k0/TT--Litestar--User-Management">REST API: User Management</a></td>
+    <td>
+<details>
+  <summary>Tech Stack</summary>
+
+  `Python`, `Litestar`, `Litestar-Asyncpg`, `Litestar-Granian`, `Advanced-Alchemy`, `msgspec`, `python-dotenv`, `PostgreSQL`, `Docker Compose`
+  <p align="center"><img src="./static/testtasks/UserManagement.png" /></p>
+</details>
+    </td>
+  </tr><tr>
+    <td><strong>Others</strong></td>
     <td>Code Samples</td>
     <td><a href="https://github.com/ames0k0/TestWork">TestWork</a></td>
     <td></td>
