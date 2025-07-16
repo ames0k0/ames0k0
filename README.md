@@ -2,7 +2,9 @@
 Stats example from: https://github.com/nullnyat/nullnyat
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,js,mongodb,postgres,redis,rabbitmq,kubernetes,docker,postman" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,js,mongodb,postgres,redis,rabbitmq,kubernetes,docker,prometheus,grafana" />
+  </a>
 </p>
 <table align="center">
   <tr>
