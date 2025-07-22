@@ -57,7 +57,7 @@ Stats example from: https://github.com/nullnyat/nullnyat
 <details>
   <summary>Tech Stack</summary>
 
-  `Python`, `FastStream`, `Apache Kafka`, `PostgreSQL`, `RabbitMQ`, `Redis`, `Docker Compose`
+  `Python`, `FastStream`, `Apache Kafka`, `PostgreSQL`, `RabbitMQ`, `Redis`, `MinIO`, `Docker Compose`
   <p align="center"><img src="./static/projects/SmallToolBox.png" /></p>
 </details>
     </td>
