@@ -45,6 +45,19 @@ Stats example from: https://github.com/nullnyat/nullnyat
     <td></td>
   </tr>
   <tr>
+    <td></td>
+    <td>v0.1.0</td>
+    <td><a href="https://github.com/sh1chan/SmallToolBox">SmallToolBox</a></td>
+    <td>
+<details>
+  <summary>Tech Stack</summary>
+
+  `Python`, `FastStream`, `Apache Kafka`, `PostgreSQL`, `RabbitMQ`, `Redis`, `Docker Compose`
+  <p align="center"><img src="./static/projects/SmallToolBox.png" /></p>
+</details>
+    </td>
+  </tr>
+  <tr>
     <td><strong>Services</strong></td>
     <td>v0.0.2</td>
     <td><a href="https://github.com/ames0k0/url-to-web-content">REST API: URL to Web Content</a></td>
