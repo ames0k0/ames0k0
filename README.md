@@ -1,6 +1,11 @@
 <!--
 Stats example from: https://github.com/nullnyat/nullnyat
 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,js,mongodb,postgres,redis,rabbitmq,kubernetes,docker,prometheus,grafana" />
+  </a>
+</p>
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ames0k0&layout=compact&count_private=true" /></td>
