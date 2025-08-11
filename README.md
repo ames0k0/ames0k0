@@ -33,7 +33,7 @@ Stats example from: https://github.com/nullnyat/nullnyat
 <table align="center">
   <tr>
     <td><strong>Projects</strong></td>
-    <td>v0.1.0</td>
+    <td>v0.1.1</td>
     <td><a href="https://github.com/aintp3d0/TitleDiff">TitleDiff</a></td>
     <td></td>
   </tr>
@@ -51,7 +51,7 @@ Stats example from: https://github.com/nullnyat/nullnyat
   </tr>
   <tr>
     <td></td>
-    <td>v0.1.0</td>
+    <td>v0.2.0</td>
     <td><a href="https://github.com/sh1chan/SmallToolBox">SmallToolBox</a></td>
     <td>
 <details>
