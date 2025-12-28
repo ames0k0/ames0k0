@@ -3,7 +3,7 @@ Stats example from: https://github.com/nullnyat/nullnyat
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,js,mongodb,postgres,redis,rabbitmq,kubernetes,docker,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,golang,js,mongodb,postgres,redis,rabbitmq,kubernetes,docker,prometheus,grafana" />
   </a>
 </p>
 <table align="center">
@@ -65,8 +65,15 @@ Stats example from: https://github.com/nullnyat/nullnyat
   <tr>
     <td><strong>Services</strong></td>
     <td>v0.0.2</td>
-    <td><a href="https://github.com/ames0k0/url-to-web-content">REST API: URL to Web Content</a></td>
-    <td></td>
+    <td><a href="https://github.com/ames0k0/url-to-web-content">URL to Web Content</a></td>
+    <td>
+<details>
+  <summary>Tech Stack</summary>
+
+  `Python`, `Playwright`, `httpx`, `asyncio`, `Docker Compose`
+  <p align="center"><img src="./static/services/UrlToWebContent.png" /></p>
+</details>
+    </td>
   </tr>
   <tr>
     <td><strong>TestProjects</strong></td>
